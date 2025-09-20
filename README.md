@@ -79,3 +79,4 @@ Enhance your tactical gameplay in **Rainbow Six® Siege** with our private tool.
 | **How to update?**    | Auto-updates with every new Rainbow Six Siege patch.    |
 | **Unlock skins?**     | Yes, all operator skins & weapon skins unlocked instantly. |
 | **Support?**          | Included via private loader community.                  |
+ 
